@@ -7,4 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    // CUSTOM COLORS
+    <color name="Celadan_Blue">#457B9D</color>
+    <color name="Purssian_Blue">#1d3557</color>
+    <color name="Power_Blue">#A8DADC</color>
+    <color name="Honey_dew">#F1FAEE</color>
+    <color name="Imperial_Red">#E63946</color>
 </resources>

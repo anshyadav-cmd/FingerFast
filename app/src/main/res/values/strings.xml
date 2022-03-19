@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">FIngerSpeed</string>
+    <string name="app_name">FingerSpeed</string>
+    <string name="header">Time :</string>
+    <string name="tapView">1000</string>
+    <string name="tapButton">TAP</string>
+    <string name="initalTime">00</string>
 </resources>
